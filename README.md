@@ -1,4 +1,9 @@
 ## Hi there 👋
+<h2 align="center">
+ <a href="#">
+ <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFAA00&vCenter=true&random=false&width=600&lines=A+shopify+store+designing+expert.;Custom+shopify+theme+customization.+;Shopify+ecommerce+store+marketing+expert.;Bespoke+frontend+website+developer." alt="Typing SVG" />
+</a>
+</h2>
 
 <!--
 **MJM27/MJM27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
