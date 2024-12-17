@@ -1,6 +1,6 @@
 ## Hi, 👋 Welcome to my github
 
-### Senior Full-Stack Web Engineer
+### React / Next.js / Shopify expert
 
 ---
 
