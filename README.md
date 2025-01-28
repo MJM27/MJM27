@@ -1,6 +1,6 @@
 ## Hi, 👋 Welcome to my github
 
-### JavaScript, TypeScript, React, Next.js, Node, Express, Shopify expert
+### React, Next.js, Node, Shopify expert
 
 ---
 
