@@ -1,6 +1,6 @@
 ## Hi, 👋 Welcome to my github
 
-### React, Next.js, Angular, Astro, Shopify expert
+### React | Next.js | Angular | Astro | Flutter | Shopify expert
 
 ---
 
